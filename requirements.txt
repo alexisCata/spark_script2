@@ -1,0 +1,4 @@
+psycopg2==2.7.1
+findspark==1.1.0
+mock==2.0.0
+#git+https://alexis83@bitbucket.org/CathedralSW/currency_exchange.git
