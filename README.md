@@ -1,6 +1,5 @@
-### BOOKING EXTRACTIONS ###
+### Spark Script ###
 
-This project is in charge of the daily booking extracctions. 
 It connects to a Redshift database using Pyspark. It queries de db for a given day, retrieves data, makes some transformations and writes an avro file in S3
 
 * Version: 1.0
